@@ -6,7 +6,7 @@
 }
 ::-webkit-scrollbar
 {
-    width: 15px;
+    width: 10px;
 }
 ::-webkit-scrollbar-track
 {
@@ -40,6 +40,11 @@ header
     height: 2000px;
     margin: 0 auto; 
     background-color: rgb(0, 0, 0);
+}
+.videos
+{
+    position: absolute;
+    bottom: 2280px;
 }
 .logo
 {
