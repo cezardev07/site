@@ -255,12 +255,6 @@ span
     height: 160px;
     background: #005fff;
 }
-/* .b{
-    margin-top: 70px;
-    width: 200px;
-    height: 160px;
-    background: #000000;
-} */
 
  img{
     width: 100%;
@@ -315,5 +309,19 @@ span
         margin-top: 15px;
         margin-left: 10px;
         font-size: 25px;
+    }
+    .atalhos{
+        display: none;
+    }
+    .recomendados{
+        margin-left: 10px;
+    }
+    .rec{
+        width: 98%;
+        height: 190px;
+        background: #005fff;
+    }
+    .title{
+        font-size: 20px;
     }
 }
