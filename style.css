@@ -261,12 +261,20 @@ span
     height: 100%;
     border: solid 3px red;
 }
-
+img:hover{
+    border-color: rgb(0, 0, 0);
+}
 .title{
     text-decoration: none;
     color: #ffffff;
     font: normal 13pt arial;
     font-weight: bold;
+}
+.title:hover{
+    color: #cdcdcd;
+}
+.sobremais:hover{
+    color: #005fff;
 }
 @media (max-width: 1075px){
     .recomendados{
