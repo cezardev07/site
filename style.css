@@ -207,11 +207,12 @@ span
 {
     width: 200px;
     margin-top: 330px;
-    margin-left: 20px;
+    margin-left: 10px;
     position: absolute;
     color: white;
     font-size: 13px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
 }
 .sobremais
 {
